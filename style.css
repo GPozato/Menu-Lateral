@@ -94,3 +94,6 @@ body{
     border-radius: 50%;
     box-shadow: l5px -l5px 0 #424242;
 }
+.navigation ul li:hover{
+    background: #40c757;
+}
